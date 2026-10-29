@@ -144,7 +144,7 @@ Notation: `<param>` is required, `[param]` is optional.
 
 | Command | Parameters | Access | Description |
 |---|---|---|---|
-| `/help` | `[category]` | Everyone | Lists commands. Categories: `general`, `tpa`, `home`, `mode`, `economy`, `owner`. |
+| `/es:help` | `[category]` | Everyone | Lists commands. Categories: `general`, `tpa`, `home`, `mode`, `economy`, `owner`. |
 | `/about` | | Everyone | Shows namespace, version, and contributors. |
 | `/plugins` (aliases `/pl`, `/plugin`) | `[pluginName]` | Admin* | Lists installed plugins. *Admin-only while `hide_plugin_command_for_member` is `true`. |
 | `/rules` | | Everyone | Opens the rules UI (from `config.rules`). |
