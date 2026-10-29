@@ -5,7 +5,7 @@
 **An all-in-one server toolkit for Minecraft Bedrock Edition.**
 Economy, homes, warps, TPA, land claims, daily/weekly rewards, scorehud, ranks, and Custom UI, built on the Script API.
 
-![Minecraft Bedrock](https://img.shields.io/badge/Minecraft-Bedrock%201.21.100%2B-62B47A?logo=minecraft&logoColor=white)
+![Minecraft Bedrock](https://img.shields.io/badge/Minecraft-Bedrock%201.26.6.40%2B-62B47A?logo=minecraft&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2.0.0-blue)
 ![Script API](https://img.shields.io/badge/Script%20API-beta-orange)
 ![Languages](https://img.shields.io/badge/languages-EN%20%7C%20ID-informational)
